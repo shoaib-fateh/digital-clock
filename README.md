@@ -10,7 +10,7 @@ The time is displayed in the clock element by concatenating the values
 The function runs every 500ms using setTimeout to update the clock
 
 ## Live Demo
-You can see it working live at https://shoaib-fateh.github.io/clock-1/
+You can see it working live at https://shoaib-fateh.github.io/digital-clock/
 
 ## Usage
 To use it, include the HTML, CSS and JavaScript files. Call the clockFunction on page load to initially display the time.
